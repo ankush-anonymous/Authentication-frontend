@@ -19,13 +19,15 @@ const LayoutComponent = ({ children }) => {
       <Box
         component="main"
         sx={{
+          flexGrow: 1,
+          height: "100vh",
+          overflow: "auto",
+          padding: 3,
+          marginTop: "30px",
           backgroundColor: (theme) =>
             theme.palette.mode === "light"
               ? theme.palette.grey[100]
               : theme.palette.grey[900],
-          flexGrow: 1,
-          height: "100vh",
-          overflow: "auto",
         }}
       >
         {children}
