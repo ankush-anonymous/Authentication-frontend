@@ -20,7 +20,7 @@ Once the repository is cloned, you can navigate to the folder containing both th
 
 
 
-**🖥️ Server Setup**
+**🖥️ Server Setup** </br>
 Navigate to the server folder:
   ```bash
      cd server
