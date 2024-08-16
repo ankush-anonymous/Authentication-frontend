@@ -18,6 +18,8 @@ Make sure you have **Node.js** and **npm** installed on your system. You can dow
 2. Navigate to the Folder
 Once the repository is cloned, you can navigate to the folder containing both the client and server files.
 
+
+
 **🖥️ Server Setup**
 Navigate to the server folder:
   ```bash
@@ -42,6 +44,7 @@ Start the server using the command:
   5. app.js - Connects and implements API routes.
 
 
+
 **🖥️ Client Setup**
 Navigate to the client folder:
   ```bash
@@ -62,6 +65,8 @@ Start the client server using the command:
   1. Pages - Contains all the JavaScript files for different pages.
   2. Components - Contains modular components used throughout the project.
 
+
+
 📸 Screenshots
 Here are some screenshots of the application:
 
@@ -70,6 +75,8 @@ Here are some screenshots of the application:
 ![image](https://github.com/user-attachments/assets/f3d565ad-a414-447a-95b8-8bdcbb1c992f)
 
 ![image](https://github.com/user-attachments/assets/832b6bdf-7f44-4651-a716-ea085e9f363e)
+
+
 
 📝 Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and create a pull request.
