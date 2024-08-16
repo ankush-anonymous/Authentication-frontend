@@ -20,7 +20,7 @@ Once the repository is cloned, you can navigate to the folder containing both th
 
 
 
-**🖥️ Server Setup** </br>
+##**🖥️ Server Setup** </br></br>
 Navigate to the server folder:
   ```bash
      cd server
@@ -35,7 +35,7 @@ Start the server using the command:
   ```
 **Refer to ``app.js`` file to see all the server routes.
 
-  ***📂Folder Structure***
+  ***📂Folder Structure***</br></br>
   There are 4 main folder and app.js file:
   1. db - Contains the database connection.
   2. Models - Contains all the table schemas.
@@ -45,7 +45,7 @@ Start the server using the command:
 
 
 
-**🖥️ Client Setup**
+##**🖥️ Client Setup**</br></br>
 Navigate to the client folder:
   ```bash
      cd client
@@ -60,14 +60,14 @@ Start the client server using the command:
   ```
 **Refer to ``App.js`` file to see all the client routes.
 
- ***📂Folder Structure***
+ ***📂Folder Structure***</br></br>
   The client folder (within the src directory) is organized as follows:
   1. Pages - Contains all the JavaScript files for different pages.
   2. Components - Contains modular components used throughout the project.
 
 
-
-📸 Screenshots
+</br></br>
+##📸 Screenshots</br>
 Here are some screenshots of the application:
 
 ![image](https://github.com/user-attachments/assets/88b62ba4-3aef-44d3-ba36-4c96adce211f)
@@ -78,5 +78,5 @@ Here are some screenshots of the application:
 
 
 
-📝 Contribution
+##📝 Contribution</br></br>
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and create a pull request.
