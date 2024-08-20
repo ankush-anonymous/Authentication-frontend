@@ -19,36 +19,10 @@ Make sure you have **Node.js** and **npm** installed on your system. You can dow
 Once the repository is cloned, you can navigate to the folder containing both the client and server files.
 
 
-
-## **🖥️ Server Setup** </br></br>
-Navigate to the server folder:
-  ```bash
-     cd server
-  ```
-Download the necessary npm packages:
-  ```bash
-      npm install@latest
-  ```
-Start the server using the command:
-  ```bash
-      npm start
-  ```
-**Refer to ``app.js`` file to see all the server routes.
-
-  ***📂Folder Structure***</br></br>
-  There are 4 main folder and app.js file:
-  1. db - Contains the database connection.
-  2. Models - Contains all the table schemas.
-  3. Controllers - Contains all the logic behind the routes.
-  4. Routes - Contains all the API routes.
-  5. app.js - Connects and implements API routes.
-
-
-
 ## **🖥️ Client Setup**</br></br>
-Navigate to the client folder:
+Navigate to the downloaded folder:
   ```bash
-     cd client
+     cd <Folder_name>
   ```
 Download the necessary npm packages:
   ```bash
